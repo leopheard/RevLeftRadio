@@ -3,7 +3,7 @@
 <img src="https://ssl-static.libsyn.com/p/assets/7/3/3/a/733a93637e62338d/RLR_Logo_CROPPED_.jpg" width="150" height="150" alt="Rev Left Radio">
 <img src="https://images.squarespace-cdn.com/content/v1/5ce57943315e4600013e5cc9/1609569190127-8ADG9CXS2VY7RORP95SA/RM+Alt+Logo.jpeg?format=750w" width="150" height="150" alt="Red Menace Radio">
 <img src="https://github.com/leopheard/RevLeftRadio/blob/master/resources/media/3.jpg?raw=true" width="150" height="150" alt="Guerilla History"><br>
-<img src="https://github.com/leopheard/RevLeftRadio/blob/master/resources/media/rev-left-3.jpg?raw=true" width="150" height="150" alt="Rev Left Radio Red Menace Guerilla History"><br>
+<img src="https://github.com/leopheard/RevLeftRadio/blob/master/resources/media/rev-left-3.jpg?raw=true" width="532" height="1547" alt="Rev Left Radio Red Menace Guerilla History"><br>
 
 Discussing political philosophy, current events, activism, and the inevitable historical downfall of capitalism from a revolutionary leftist perspective. Included:<br>
 
