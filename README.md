@@ -1,6 +1,6 @@
 <a href="https://kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://revolutionaryleftradio.libsyn.com/website">Revolutionary Left Radio</a>.<br>
 
-<img src="https://github.com/leopheard/RevLeftRadio/blob/master/resources/media/rev-left-3.jpg?raw=true" width="450" height="150" alt="Rev Left Radio Red Menace Guerilla History"><br>
+<a href="https://revolutionaryleftradio.libsyn.com"><img src="https://github.com/leopheard/RevLeftRadio/blob/master/resources/media/rev-left-3.jpg?raw=true" width="450" height="150" alt="Rev Left Radio Red Menace Guerilla History"></a><br>
 
 Discussing political philosophy, current events, activism, and the inevitable historical downfall of capitalism from a revolutionary leftist perspective. Included:<br>
 
